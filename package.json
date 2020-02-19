@@ -1,0 +1,8 @@
+{
+  "name": "marvel-heroes-network",
+  "version": "1.0.0",
+  "repository": "https://github.com/nosql-bootcamp/marvel-heroes-network.git",
+  "dependencies": {
+    "csv-parser": "^2.3.2"
+  }
+}
